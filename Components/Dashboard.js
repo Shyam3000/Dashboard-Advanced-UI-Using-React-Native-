@@ -60,7 +60,6 @@ export default class Dashboard extends Component {
             </View>
             {/* Three row end */}
 
-          
             {/* four row */}
             <View style={styles.flxBox}>
                   <ImageBackground source={MybackgroundImageFile} style={styles.bgImg}>
